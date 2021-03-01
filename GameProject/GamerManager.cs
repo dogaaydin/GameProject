@@ -34,7 +34,7 @@ namespace GameProject
 
         public void Update(Gamer gamer)
         {
-            Console.WriteLine("Kayıt silindi.");
+            Console.WriteLine("Kayıt güncellendi.");
         }
     }
 }
